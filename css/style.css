@@ -19,10 +19,12 @@
 
 .btn-primary {
   background-color: #418bff;
+  color: #fff;
 }
 
 .btn-secondary {
   background-color: #ff8700;
+  color: #fff;
 }
 
 * {
@@ -44,7 +46,6 @@ img {
 
 a {
   text-decoration: none;
-  color: #fff;
 }
 
 .showcase {
@@ -74,6 +75,10 @@ a {
 
 .showcase nav ul li {
   margin-right: 15px;
+}
+
+.showcase nav ul a {
+  color: #fff;
 }
 
 .showcase nav a:hover {
